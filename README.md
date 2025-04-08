@@ -3,7 +3,7 @@
 **Digital Solutions Developer**  
 🌍 Working 100% remotely
 
-## 🍋 What I Do
+## 🍋 What I do
 
 I build thoughtful, performance-oriented software — from backend systems and embedded tools to automation scripts and internal platforms.
 
@@ -11,14 +11,14 @@ I build thoughtful, performance-oriented software — from backend systems and e
 
 I work well independently or with teams, adapting fast and always aiming for meaningful outcomes over shiny tech.
 
-## 👀 What I’m Into
+## 👀 What I’m into
 
 - async/await patterns, concurrency, and multiprocessing — the right tool for the right flow  
 - squeezing performance out of limited resources without overengineering  
 - internal tools that reduce friction and support teams  
 - codebases that age well and are a pleasure to read  
 
-## 🧰 Tech That Clicks
+## 🧰 Tech that drives me
 
 **Languages**: Python, C, JavaScript, Go  
 **Frameworks**: FastAPI, Django REST Framework, Vue.js  
