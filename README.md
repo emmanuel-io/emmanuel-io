@@ -1,4 +1,4 @@
-# 👋 Hi, I'm emmanuel IO
+# 👋 Hi, I'm emmanuel io
 
 **Digital Solutions Developer**  
 🌍 Working 100% remotely
