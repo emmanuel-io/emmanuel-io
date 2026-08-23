@@ -21,8 +21,8 @@ I work well independently or with teams, adapting fast and always aiming for mea
 ## 🧰 Tech that drives me
 
 **Languages**: Python, C, JavaScript, Go  
-**Frameworks**: FastAPI, Django REST Framework, Vue.js  
-**Tools**: Docker, SQLAlchemy, Celery, RabbitMQ, pytest  
+**Frameworks**: FastAPI, Django REST Framework, Sveltekit  
+**Tools**: Docker, SQLAlchemy, SQLite, Celery, RabbitMQ, pytest  
 **Domains**: Backend, APIs, Embedded Systems, Dev Tools
 
 ## 🔗 Links
