@@ -29,6 +29,5 @@ I work well independently or with teams, adapting fast and always aiming for mea
 
 - 🌐 [Website](https://emmanuel-io.github.io/)
 - 🐙 [GitHub Projects](https://github.com/emmanuel-io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuelamadio/)
 
 > I squeeze performance out of software like it’s a lemon 🍋 — fast starts, lasting value, no fluff.
