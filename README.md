@@ -1,37 +1,46 @@
-# 👋 Hi, I'm emmanuel io
+# 👋 Hi, I'm Emmanuel Amadio
 
-**Building simple, reliable and efficient software.**  
-🌍 Working 100% remotely
+**I build, simplify, and optimize software.**  
+🌍 Remote by design
 
-## 🍋 What I do
+I've been building technical things for 25+ years — from electronics, real-time and embedded systems to backend software, APIs, automation and developer tools.
 
-I build, simplify, and optimize software.
+What I enjoy most is the early part of a project: exploring an idea, getting to something that works, then simplifying and optimizing it.
 
-**In the software industry for 25+ years**, I’ve worked across embedded systems, backend software, cloud applications, SaaS, and developer tools.
+I like understanding how things work, removing unnecessary complexity, improving performance and resource efficiency, and keeping systems understandable.
 
-I enjoy understanding how things work, removing unnecessary complexity, and making software more reliable, efficient, and pleasant to maintain.
+Not every experiment needs to become a product. Sometimes learning something or finding a better way to solve a problem is enough.
 
-I work independently or with teams, always aiming for meaningful outcomes over shiny tech.
+## 👀 What I'm into
 
-## 👀 What I’m into
-
-- simple, efficient software without unnecessary complexity
-- performance, concurrency, async/await, and resource efficiency
+- 0→1 projects, prototypes, and experiments
+- simple software with fewer moving parts
+- performance, concurrency, and resource efficiency
 - backend systems, APIs, and developer tools
-- internal tools and automation that reduce friction
-- codebases that age well and remain understandable
-- exploring better ways to build software with AI
+- automation that removes repetitive work
+- understandable infrastructure and fewer black boxes
+- using AI as a tool to explore and build faster
 
-## 🧰 Tech that drives me
+## 🧰 What I use
 
-**Languages**: Python, Go, C, JavaScript  
-**Frameworks**: FastAPI, Django REST Framework, HTMX  
-**Tools**: Docker, SQLAlchemy, SQLite, Celery, RabbitMQ, pytest  
-**Domains**: Backend, APIs, Dev Tools, Automation
+Mostly **Python, SQL, Go, and Linux**.
 
-## 🔗 Links
+FastAPI, Django, SQLite, HTMX, Docker, Redis, Celery, RabbitMQ and other tools come and go depending on the problem.
 
-- 🌐 [Website](https://emmanuel-io.github.io/)
-- 🐙 [GitHub Projects](https://github.com/emmanuel-io)
+Frameworks change. The way I approach problems changes much less.
+
+## 🔨 Featured project
+
+### [ZeroAuthLite](https://github.com/emmanuel-io/zero-auth-lite)
+
+A small, readable identity provider built with FastAPI, SQLite and HTMX.
+
+Browser sessions, OAuth2 and OpenID Connect — deliberately kept simple enough to understand, run and modify.
+
+→ [Documentation](https://emmanuel-io.com/zero-auth-lite/)
+
+## 🔗 Elsewhere
+
+🌐 [emmanuel io](https://emmanuel-io.com/)
 
 > I squeeze performance out of software like it’s a lemon 🍋 — fast starts, lasting value, no fluff.
